@@ -27,3 +27,4 @@ const createTables = async () => {
 }
 
 createTables()
+
